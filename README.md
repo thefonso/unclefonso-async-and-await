@@ -94,16 +94,16 @@ I'll show this in a different video example
 
 Next up?  converting "then then thens" to => async/await example
 
-Resources:
+### Resources:
 
-![W3schools: async/await](https://www.w3schools.com/Js/js_async.asp)
+[W3schools: async/await](https://www.w3schools.com/Js/js_async.asp)
 
-![Fetch web API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+[Fetch web API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-![Axios](https://axios-http.com/docs/intro)
+[Axios](https://axios-http.com/docs/intro)
 
-![jsonplaceholder](https://jsonplaceholder.typicode.com/)
+[jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
-![axios gitghub rep](https://github.com/axios/axios)
+[axios gitghub rep](https://github.com/axios/axios)
 
-![The waiter example](https://www.youtube.com/watch?v=EI7sN1dDwcY&list=PL2xU474uH-c6upi3bgGSVSaxtAfW1gTo8&index=15&t=4s)
+[The waiter example](https://www.youtube.com/watch?v=EI7sN1dDwcY&list=PL2xU474uH-c6upi3bgGSVSaxtAfW1gTo8&index=15&t=4s)
