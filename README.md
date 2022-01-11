@@ -80,7 +80,7 @@ async function getAllCountries() {
   console.log(myPromise)
 }
 
-getAllCountries().then(r => console.log(r))
+getAllCountries()
 ```
 
 You will often see the phrase `res` in place of `mypromise`....`res` being short for response.
