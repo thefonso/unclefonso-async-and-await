@@ -1,8 +1,6 @@
 ### unclefonso presents:
 
-<span>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jhw9YWm08Ws" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-</span>
+[![IMAGE ALT TEXT](thumbnail.png)](http://www.youtube.com/watch?v=Jhw9YWm08Ws "What is Async / Await")
 
 ## What is Async / Await ?
 
