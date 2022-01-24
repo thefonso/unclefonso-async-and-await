@@ -105,6 +105,8 @@ Next up?  converting "then then thens" to => async/await example
 
 [Axios](https://axios-http.com/docs/intro)
 
+[6 weeks in paradise](https://frankstepanski.medium.com/javascript-6-weeks-in-paradise-e7b4db2a43f4)
+
 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 [axios gitghub rep](https://github.com/axios/axios)
